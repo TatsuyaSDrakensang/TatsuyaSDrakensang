@@ -1,11 +1,11 @@
-<h1 align="center">♠️Greetings, my name is Rafael D., a.k.a Tatsuya</h1>
+<h1 align="center">♠️Greetings, my name is Rafael D. a.k.a Tatsuya♠️</h1>
 <h3 align="center">Backend (.Net, C#) student, just starting my journey to become a Dev.</h3>
 
 - 📓I’m currently learning **.Net, C#**
 
 - 📲Reach me via **rafaeldpereira07@gmail.com**
 
-- ♠️About me **I like Goth Metal, dragons, darkness, vampires and victorian era**
+- ♠️About me: **I like Goth Metal, dragons, darkness, vampires and victorian era**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
